@@ -50,7 +50,7 @@ const lightIcon = (
 const Header: React.FC = () => {
   return (
     <>
-      <div className="flex p-8">
+      <div className="flex p-8 justify-end">
         <div className="flex dark:hidden visible">
           <button
             type="button"
